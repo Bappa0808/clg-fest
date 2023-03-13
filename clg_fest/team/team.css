@@ -1,0 +1,121 @@
+body{
+    background: #005AA7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background-image: url("1.jpg");
+
+}
+nav{
+    background-color: #005AA7;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 30%;
+
+}
+nav:hover {
+    background-color: rgb(25, 137, 222);
+}
+.container{
+    display: flex;
+    column-gap: 10px;
+    margin-top: 130px;
+
+
+}
+.President{
+    color: aqua;
+    background-color: #005AA7;
+    height: 210px;
+    width:30%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 2%;
+    cursor: pointer;
+
+    
+    
+    
+}
+
+.President:hover {
+    background-color: rgb(25, 137, 222);
+}
+.vicePresident{
+    color: aqua;
+    background-color: #005AA7;
+    height: 210px;
+    width:30%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 2%;
+    cursor: pointer;
+}
+.vicePresident:hover {
+    background-color: rgb(25, 137, 222);
+}
+.container2{
+    text-align: center;
+    /*padding-left: 40%;*/
+    background-color: #005AA7;
+    color: aqua;
+    height: 200px;
+    cursor: pointer;
+}
+.container2:hover {
+    background-color: rgb(25, 137, 222);
+}
+.container3{
+    display: flex;
+    column-gap: 10px;
+    padding-top: 25px;
+
+}
+#Stage{
+    color: aqua;
+    background-color: #005AA7;
+    height: 300px;
+    width:30%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 2%;
+    cursor: pointer;
+}
+#Stage:hover{
+    background-color: rgb(25, 137, 222);
+}
+.Marketing{
+    color: aqua;
+    background-color: #005AA7;
+    height: 300px;
+    width:30%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 2%;
+    cursor: pointer;
+}
+.Marketing:hover{
+    background-color: rgb(25, 137, 222);
+}
+.container4{
+    display: flex;
+    column-gap: 10px;
+    padding-top: 25px;
+}
+
+.Security{
+    color: aqua;
+    background-color: #005AA7;
+    height: 210px;
+    width:30%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 2%;
+    cursor: pointer;
+    
+
+}
+.Security:hover{
+    background-color: rgb(25, 137, 222);
+}

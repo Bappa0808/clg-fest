@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+nav{
+    background-color: azure;
+    color: brown;
+    text-align: center;
+}
+.container1{
+    background-color: blue;
+    width: 14rem;
+    text-align: center;
+    border-radius: 20%;
+}
